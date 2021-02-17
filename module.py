@@ -1,0 +1,19 @@
+# Modules
+# collection of reusable functions and varibles(names) inside the python file is called Module
+#Execute Area
+def add(x,y):
+    return x+y
+def sub(x,y):
+    return x-y
+def mul(x,y):
+    return x*y
+def div(x,y):
+    return x/y
+def floordiv(x,y):
+    return x//y
+def greater(x,y):
+    return x>y
+def factorial(x):
+    return x
+def sqrt(x):
+    return x
